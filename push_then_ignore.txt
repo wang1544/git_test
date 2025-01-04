@@ -1,2 +1,0 @@
-text_sw
-second_line
